@@ -1,4 +1,4 @@
-console.log ("");
+console.log ("String plakken");
 let mijnVoornaam = "Riyad"
 let mijnAchternaam = "Mahmud"
 let mijnLeeftijd = "26"
