@@ -3,4 +3,4 @@ let mijnVoornaam = "Riyad"
 let mijnAchternaam = "Mahmud"
 let mijnLeeftijd = "26"
 
-console.log (mijnVoornaam+ " " + mijnAchternaam);
+console.log (`${mijnVoornaam} ${mijnAchternaam}`);
