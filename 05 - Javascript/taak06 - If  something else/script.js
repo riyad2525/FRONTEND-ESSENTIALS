@@ -1,7 +1,7 @@
-var stopLichtKleur = rood;
+let stopLichtKleur = rood;
 
 if (stopLichtKleur == rood){
-    document.write ("Jij moet stoppen.");
+    console.log ("Jij moet stoppen.");
 } else {
-    document.write ("Je mag door rijden.");
+    console.log ("Je mag door rijden.");
 }
