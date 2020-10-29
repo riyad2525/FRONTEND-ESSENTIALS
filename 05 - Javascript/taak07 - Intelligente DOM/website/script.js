@@ -7,3 +7,7 @@ console.log(window.document);
 
 
 // document.querySelector("#poster1");
+
+var elem = document.querySelector('#poster3');
+
+elem.style.backgroundColor = 'white';
