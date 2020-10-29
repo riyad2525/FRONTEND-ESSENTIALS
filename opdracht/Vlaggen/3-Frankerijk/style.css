@@ -1,0 +1,35 @@
+/* Hier hoef je niks mee te doen */
+*{
+    font-size:0;
+}
+
+#container{
+    flex-direction: column;
+    width: 600px;
+    height: 500px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+}
+
+/* Hieronder kun je gaan editen */
+
+#linkerzijde{
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+    background-color: blue;
+}
+#middenstuk{
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+    background-color: white;
+}
+
+#rechterzijde{
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+    background-color: red;
+}
+
